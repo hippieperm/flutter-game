@@ -1,0 +1,5 @@
+# Commit messages
+Always generate Git commit messages in Korean.
+Follow Conventional Commits style (feat, fix, refactor, docs, chore, etc.).
+Use concise but informative Korean subject lines (≤ 150 chars).
+Add a short Korean body only when it adds value.
